@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Morlok69
+- 👀 I’m interested in python and security information ...
+- 🌱 I’m currently learning python...
+
+
+
